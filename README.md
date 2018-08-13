@@ -1,1 +1,1 @@
-# mad-jacks-p2-transfered-learning
+# mad-jacks-p2-transfer-learning
